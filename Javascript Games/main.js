@@ -12,18 +12,18 @@ let secondCard = false;
 
 //Items array
 const items = [
-  { name: "crow", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/crow.png" ,style:"height:10px" , style:"width: 10px" },
-  { name: "dog", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/dog.png" ,style:"height:10px", style:"width: 10px"},
-  { name: "hen", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/hen.png" ,style:"height:10px", style:" width: 10px"},
-  { name: "horse", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/horse.png" ,style:"height:10px", style:" width: 10px"},
-  { name: "lion", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/lion.png" ,style:"height:10px", style:" width: 10px"},
-  { name: "peacock", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/peacock.png" ,style:"height:10px", style:"width: 10px"},
-  { name: "chameleon", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/chameleon.png" ,style:"height:10px", style:"width: 10px"},
-  { name: "rabbit", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/rabbit.png" ,style:"height:10px", style:"width: 10px"},
-  { name: "anaconda", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/anaconda.png" ,style:"height:10px", style:"width: 10px"},
-  { name: "sparrow", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/sparrow.png" ,style:"height:10px", style:"width: 10px"},
-  { name: "cockatoo", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/cockatoo.png" ,style:"height:10px", style:"width: 10px"},
-  { name: "hen", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/hen.png" ,style:"height:10px", style:"width: 10px"},
+  { name: "crow", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/crow.png"  },
+  { name: "dog", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/dog.png" },
+  { name: "hen", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/hen.png" },
+  { name: "horse", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/horse.png" },
+  { name: "lion", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/lion.png" },
+  { name: "peacock", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/peacock.png" },
+  { name: "cat", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/cat.png" },
+  { name: "rabbit", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/rabbit.png"},
+  { name: "anaconda", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/anaconda.png" },
+  { name: "sparrow", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/sparrow.png" },
+  { name: "cockatoo", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/cockatoo.png"},
+  { name: "hen", image: "C:/Anjali/Vs codes/Project/Javascript Games/Images/hen.png"},
 ];
 
 //Initial Time
